@@ -1,1 +1,3 @@
-# ChomP
+# Chomp
+
+two-player perfect information combinatorial game
